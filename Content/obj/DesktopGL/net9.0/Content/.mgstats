@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/HP VICTUS/Desktop/fullstack-learning/Mono/BlockGame/Content/DefaultFont.spritefont","C:/Users/HP VICTUS/Desktop/fullstack-learning/Mono/BlockGame/Content/bin/DesktopGL/Content/DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21529,0.1249322
+"C:/Users/HP VICTUS/Desktop/fullstack-learning/Mono/BlockGame/Content/logo.png","C:/Users/HP VICTUS/Desktop/fullstack-learning/Mono/BlockGame/Content/bin/DesktopGL/Content/logo.xnb","TextureProcessor","Texture2DContent",50411,164101,0.0789059
+"C:/Users/HP VICTUS/Desktop/fullstack-learning/Mono/BlockGame/Content/player.png","C:/Users/HP VICTUS/Desktop/fullstack-learning/Mono/BlockGame/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",161,1109,0.1241041
+"C:/Users/HP VICTUS/Desktop/fullstack-learning/Mono/BlockGame/Content/target.png","C:/Users/HP VICTUS/Desktop/fullstack-learning/Mono/BlockGame/Content/bin/DesktopGL/Content/target.xnb","TextureProcessor","Texture2DContent",182,1109,0.0755169
